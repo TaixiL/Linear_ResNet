@@ -1,1 +1,1 @@
-# STOR-565-FInal-Project
+# Linear_ResNet
